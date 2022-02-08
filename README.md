@@ -1,10 +1,11 @@
 ### Hi there soySolita. Bienvenid@s! 👋
 
-**SolitaMRSoftware/SolitaMRSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+Soy Desarrollador de Software y en  la programación encontrée lo que me apasiona y me gusta hacer.
 
 Here are some ideas to get you started:
 
-- 🔭 Soy Desarrollador de Software. En la promación encontrée lo que me gusta hacer
+- 🔭 Soy Desarrollador de 
 - 🌱 I’m currently learning ... Desarrollador 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
