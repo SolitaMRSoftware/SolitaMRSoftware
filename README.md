@@ -13,7 +13,7 @@ Soy Desarrollador de Software y en  la programación encontré lo que me apasion
 
 - HM estudio:  https://generandomusica.000webhostapp.com/
 
-Sitio web pensado para una productora dedicada a vender contenido musical. Está desarroll en PHP integrado con Mercado Pago.
+Sitio web pensado para una productora dedicada a vender contenido musical. Está desarrollado en PHP integrado con Mercado Pago.
 
 - Climatiko:  https://climatiko.netlify.app/
 
