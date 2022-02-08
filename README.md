@@ -9,12 +9,20 @@ Soy Desarrollador de Software y en  la programación encontré lo que me apasion
 - Mi Portfolio
 Acá podrás ver algunos de mis trabajos, info de contacto y algo sobre mi.
 
--HM studio
+- HM estudio
 Sitio web pensado para una productora dedicada a vender contenido musical. Está desarroll en PHP integrado con Mercado Pago
 
--Aplicaci de escritorio 
+- Aplicación de escritorio
 pensada para una vinería en la que se puede buscar, guardar, modificar y eliminar datos de productos, clientes, proveedores y stock
 
--✅ Habilidades:
+✅ Habilidades:
+- Python
+- PHP
+- SQLite
+- MySQL
+- HTML
 
--📞 Contacto:
+📞 Podés contactarme:
+- LinkedIn: 
+- Correo Electrónico:msoledadmarich@gmail.com
+
