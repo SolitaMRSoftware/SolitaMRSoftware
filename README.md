@@ -1,15 +1,13 @@
 ### Hi there soySolita. Bienvenid@s! 👋
 
 ***
-Soy Desarrollador de Software y en  la programación encontrée lo que me apasiona y me gusta hacer.
+Soy Desarrollador de Software y en  la programación encontré lo que me apasiona y me gusta hacer. 
 
-Here are some ideas to get you started:
+👇  Abajo podrás ver algo sobre mi y los proyectos que he hecho
 
-- 🔭 Soy Desarrollador de 
-- 🌱 I’m currently learning ... Desarrollador 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👩‍💻 Proyectos:
+- 
+-
+-✅ Habilidades:
+
+-📞 Contacto:
