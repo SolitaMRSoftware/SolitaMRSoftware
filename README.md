@@ -6,7 +6,7 @@ Soy Desarrollador de Software y en  la programación encontré lo que me apasion
 👇  Abajo podrás ver algo sobre mi y los proyectos que he hecho
 
  👩‍💻 Proyectos:
-- Mi Portfolio
+#Mi portfolio
 Acá podrás ver algunos de mis trabajos, info de contacto y algo sobre mi.
 
 - HM estudio
