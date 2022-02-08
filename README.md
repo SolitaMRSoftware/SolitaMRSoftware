@@ -6,20 +6,25 @@ Soy Desarrollador de Software y en  la programación encontré lo que me apasion
 👇  Abajo podrás ver algo sobre mi y los proyectos que he hecho
 
  👩‍💻 Proyectos:
- 1 .  Mi Portfolio
-Acá podrás ver algunos de mis trabajos, info de contacto y algo sobre mi.
+ 
+- Mi Portfolio:  http://portfoliosolita.netlify.app/
 
-- HM estudio
-Sitio web pensado para una productora dedicada a vender contenido musical. Está desarroll en PHP integrado con Mercado Pago
+ Acá podrás ver algunos de mis trabajos, info de contacto y algo sobre mi.      
 
-- Aplicación de escritorio
-pensada para una vinería en la que se puede buscar, guardar, modificar y eliminar datos de productos, clientes, proveedores y stock
+- HM estudio:  https://generandomusica.000webhostapp.com/
+
+Sitio web pensado para una productora dedicada a vender contenido musical. Está desarroll en PHP integrado con Mercado Pago.
+
+- Climatiko:  https://climatiko.netlify.app/
+
+Aplicación para conocer el clima de las ciudades del mundo.
+
 
 ✅ Habilidades:
 - Python
-- PHP
+-  PHP
 - SQLite
-- MySQL
+-MySQL
 - HTML
 
 📞 Podés contactarme:
