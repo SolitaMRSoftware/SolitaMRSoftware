@@ -28,6 +28,7 @@ Aplicación para conocer el clima de las ciudades del mundo.
 - HTML
 
 📞 Podés contactarme:
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/soledad-marín-richard-dev
 - Correo Electrónico:msoledadmarich@gmail.com
+
 
