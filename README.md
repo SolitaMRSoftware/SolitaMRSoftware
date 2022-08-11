@@ -24,9 +24,9 @@ Aplicación para conocer el clima de las ciudades del mundo.
 - Python
 -  PHP
 - SQLite
--MySQL
+- MySQL
 - HTML
--Apex
+- Apex
 
 📞 Podés contactarme:
 - LinkedIn: www.linkedin.com/in/soledad-marín-richard-dev
