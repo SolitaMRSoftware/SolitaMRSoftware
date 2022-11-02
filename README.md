@@ -26,7 +26,8 @@ Aplicación para conocer el clima de las ciudades del mundo.
 - SQLite
 - MySQL
 - HTML
-- Apex
+- CSS
+- JavaScript
 
 📞 Podés contactarme:
 - LinkedIn: www.linkedin.com/in/soledad-marín-richard-dev
