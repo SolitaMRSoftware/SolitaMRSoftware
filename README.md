@@ -24,13 +24,12 @@ Aplicación para conocer el clima de las ciudades del mundo.
 - Python
 -  PHP
 - SQLite
-- MySQL
 - HTML
 - CSS
 - JavaScript
 
 📞 Podés contactarme:
-- LinkedIn: www.linkedin.com/in/soledad-marín-richard-dev
+- LinkedIn: https://www.linkedin.com/in/soledadmarin-dev/
 - Correo Electrónico:msoledadmarich@gmail.com
 
 
