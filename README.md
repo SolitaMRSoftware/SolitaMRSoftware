@@ -7,7 +7,7 @@ Soy Desarrollador de Software y en  la programación encontré lo que me apasion
 
  👩‍💻 Proyectos:
  
-- Mi Portfolio:  https://solitadeveloper.netlify.app/
+- Mi Portfolio:  https://solitadev.netlify.app/
 
  Acá podrás ver algunos de mis trabajos, info de contacto y algo sobre mi.      
 
