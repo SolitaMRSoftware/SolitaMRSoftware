@@ -11,13 +11,13 @@ Soy Desarrollador de Software y en  la programación encontré lo que me apasion
 
  Acá podrás ver algunos de mis trabajos, info de contacto y algo sobre mi.      
 
-- HM estudio:  https://generandomusica.000webhostapp.com/
+- Diccionario de inglés: https://midiccionario.netlify.app/
 
-Sitio web pensado para una productora dedicada a vender contenido musical. Está desarrollado en PHP integrado con Mercado Pago.
+Diccionario de inglés desarrollado en HTML, CSS Y JS
 
-- Climatiko:  https://climatiko.netlify.app/
+- Virtuala:  https://virtuala.netlify.app/
 
-Aplicación para conocer el clima de las ciudades del mundo.
+Sitio web de invitaciones digitales para eventos
 
 
 ✅ Habilidades:
