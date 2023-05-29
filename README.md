@@ -22,11 +22,11 @@ Sitio web de invitaciones digitales para eventos
 
 ✅ Habilidades:
 - Python
--  PHP
+- Javascript
+- MySQL
 - SQLite
 - HTML
 - CSS
-- JavaScript
 
 📞 Podés contactarme:
 - LinkedIn: https://www.linkedin.com/in/soledadmarin-dev/
