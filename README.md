@@ -22,7 +22,7 @@ Me recibí en 2021 de Técnico en Desarrollo de Software
 📞 Podés contactarme:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soledad%20Marin-fuchsia)](https://www.linkedin.com/in/soledadmarin-dev/)
 [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
-[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electronico%3A-msoledadmarin%40gmail.com-blue)]
+[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electronico%3A-msoledadmarin%40gmail.com-blue)]()
 
 
 
