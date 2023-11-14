@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Solita. Bienvenid@s! 👋
 
-***Soy Desarrollador de Software y en  la programación encontré lo que me apasiona y me gusta hacer.*** 
-Me recibí en 2021 de Técnico en Desarrollo de Software
+***Soy Desarrolladora de Software y en  la programación encontré lo que me apasiona y me gusta hacer.*** 
+Me recibí en 2021 de Técnico en Desarrollo de Software.
 
 ##👇 Acá podrás ver algunos de mis trabajos realizados como parte del aprendizaje, info de contacto y algo sobre mi.
 
