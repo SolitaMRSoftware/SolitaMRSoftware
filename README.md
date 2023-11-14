@@ -2,6 +2,7 @@
 
 ***Soy Desarrolladora de Software y en  la programación encontré lo que me apasiona y me gusta hacer.*** 
 <br>
+
 Me recibí en 2021 de Técnico en Desarrollo de Software y desde entonces no he dejado de aprender para poder sumar conocimiento y práctica.
 <br>
 
