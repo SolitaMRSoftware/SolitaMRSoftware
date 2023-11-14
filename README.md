@@ -1,35 +1,28 @@
 ### Hola, mi nombre es Solita. Bienvenid@s! 👋
 
-***
-Soy Desarrollador de Software y en  la programación encontré lo que me apasiona y me gusta hacer. 
+***Soy Desarrollador de Software y en  la programación encontré lo que me apasiona y me gusta hacer.*** 
+Me recibí en 2021 de Técnico en Desarrollo de Software
 
-👇  Abajo podrás ver algo sobre mi y los proyectos que he hecho
+##👇 Acá podrás ver algunos de mis trabajos realizados como parte del aprendizaje, info de contacto y algo sobre mi.
 
- 👩‍💻 Proyectos:
+ 👩‍💻 Algunos de mis proyectos:
  
-- Mi Portfolio: https://marinsolita.netlify.app/
-
- Acá podrás ver algunos de mis trabajos, info de contacto y algo sobre mi.      
-
 - Diccionario de inglés: https://midiccionario.netlify.app/
 
-Diccionario de inglés desarrollado en HTML, CSS Y JS
+- Página invitaciones digitales de Virtuala Invitaciones: https://virtuala.netlify.app/
 
-- Virtuala:  https://virtuala.netlify.app/
-
-Sitio web de invitaciones digitales para eventos
-
-
-✅ Habilidades:
-- Python
-- Javascript
-- MySQL
-- SQLite
-- HTML
-- CSS
+✅ Tecnologías:
+[![Python](https://img.shields.io/badge/Python-brightgreen)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow)]()
+[![SQLite](https://img.shields.io/badge/SQLite-fuchsia)]()
+[![MySQL](https://img.shields.io/badge/MySQL-blue)]()
+[![HTML](https://img.shields.io/badge/HTML-orange)]()
+[![CSS](https://img.shields.io/badge/CSS-red)]()
 
 📞 Podés contactarme:
-- LinkedIn: https://www.linkedin.com/in/soledadmarin-dev/
-- Correo Electrónico:msoledadmarich@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soledad%20Marin-fuchsia)](https://www.linkedin.com/in/soledadmarin-dev/)
+[![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
+https://img.shields.io/badge/Correo%20Electronico%3A-msoledadmarich%40gmail.com-gray
+
 
 
