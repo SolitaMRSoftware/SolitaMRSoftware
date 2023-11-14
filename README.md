@@ -6,6 +6,9 @@ Me recibí en 2021 de Técnico en Desarrollo de Software y desde entonces no he 
 <br>
 
 👇 Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje, las tecnologías aprendidas y mi info de contacto.
+<br>
+En mi Portafolio vas a encontrar todos los proyectos que he realizado hasta ahora
+<br>
 
  👩‍💻 Algunos de mis proyectos:
  
