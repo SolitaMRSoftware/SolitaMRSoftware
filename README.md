@@ -6,16 +6,13 @@ Me recibí en 2021 de Técnico en Desarrollo de Software y desde entonces no he 
 <br>
 
 👇 Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje, las tecnologías aprendidas y mi info de contacto.
-<br>
-En mi Portafolio vas a encontrar todos los proyectos que he realizado hasta ahora:
-[![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
-<br>
 
  👩‍💻 Algunos de mis proyectos:
  
 - Diccionario de inglés: https://midiccionario.netlify.app/
 
 - Página invitaciones digitales de Virtuala Invitaciones: https://virtuala.netlify.app/
+- [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
 
 ✅ Tecnologías:
 [![Python](https://img.shields.io/badge/Python-brightgreen)]()
