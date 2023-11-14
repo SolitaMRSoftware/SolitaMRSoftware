@@ -1,4 +1,4 @@
-### Hi there soy Solita. Bienvenid@s! 👋
+### Hola, mi nombre es Solita. Bienvenid@s! 👋
 
 ***
 Soy Desarrollador de Software y en  la programación encontré lo que me apasiona y me gusta hacer. 
