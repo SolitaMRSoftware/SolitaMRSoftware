@@ -7,7 +7,7 @@ Me recibí en 2021 de Técnico en Desarrollo de Software y desde entonces no he 
 
 👇 Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje, las tecnologías aprendidas y mi info de contacto.
 <br>
-Cualquier sugerencia constructiva, es bienvenida.
+Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 
  👩‍💻 Algunos de mis proyectos:
  
