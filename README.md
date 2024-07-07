@@ -19,7 +19,7 @@ Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 
 ✅ Tecnologías:
 [![Python](https://img.shields.io/badge/Python-brightgreen)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow)]()
+[![C#](https://img.shields.io/badge/C#-blue)]()
 [![SQLite](https://img.shields.io/badge/SQLite-fuchsia)]()
 [![MySQL](https://img.shields.io/badge/MySQL-blue)]()
 [![HTML](https://img.shields.io/badge/HTML-orange)]()
