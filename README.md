@@ -24,6 +24,7 @@ Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 [![MySQL](https://img.shields.io/badge/MySQL-blue)]()
 [![HTML](https://img.shields.io/badge/HTML-orange)]()
 [![CSS](https://img.shields.io/badge/CSS-red)]()
+[![GIT](https://img.shields.io/badge/GIT-black)]()
 
 📞 Podés contactarme:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soledad%20Marin-fuchsia)](https://www.linkedin.com/in/soledadmarin-dev/)
