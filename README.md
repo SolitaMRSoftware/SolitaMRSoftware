@@ -13,7 +13,7 @@ Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
  👩‍💻 Algunos de mis proyectos:
  
 - Diccionario de inglés: https://midiccionario.netlify.app/
-
+- Página invitaciones digitales y deco party infantil de Nube de Coco: https://nubedecoco.netlify.app/
 - Página invitaciones digitales de Virtuala Invitaciones: https://virtuala.netlify.app/
 - [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
 
