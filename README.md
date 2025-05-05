@@ -18,10 +18,10 @@ Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 - [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
 
 ✅ Tecnologías:
-[![Python](https://img.shields.io/badge/Python-brightgreen)]()
-[![C#](https://img.shields.io/badge/C%23-purple)]()
+[![Python](https://img.shields.io/badge/Python-yellow)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-brightgreen)]()
 [![SQLite](https://img.shields.io/badge/SQLite-fuchsia)]()
-[![MySQL](https://img.shields.io/badge/MySQL-blue)]()
+[![Postgres](https://img.shields.io/badge/Postgres-blue)]()
 [![HTML](https://img.shields.io/badge/HTML-orange)]()
 [![CSS](https://img.shields.io/badge/CSS-red)]()
 [![GIT](https://img.shields.io/badge/GIT-black)]()
