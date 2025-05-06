@@ -10,7 +10,8 @@ Me recibí en 2021 de Técnico en Desarrollo de Software y desde entonces no he 
 <br>
 Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 
- 👩‍💻 Algunos de mis proyectos:
+ 👩‍💻 Algunos de mis proyectos
+ 
  En el siguiente podés visitar mi portafolio para ver algunos de los proyectos que he realizado:
  https://marinsolita.netlify.app/
 
