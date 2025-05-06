@@ -12,7 +12,7 @@ Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 
  👩‍💻 Algunos de mis proyectos
  
- En el siguiente podés visitar mi portafolio para ver algunos de los proyectos que he realizado:
+ En el siguiente enlace podés visitar mi portafolio para ver algunos de los proyectos que he realizado como parte de mi aprendizaje:
  https://marinsolita.netlify.app/
 
 - [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
