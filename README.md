@@ -11,9 +11,8 @@ Me recibí en 2021 de Técnico en Desarrollo de Software y desde entonces no he 
 Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 
  👩‍💻 Algunos de mis proyectos:
- 
-- Diccionario de inglés: https://midiccionario.netlify.app/
-- Mi portafolio: https://marinsolita.netlify.app/
+ En el siguiente podés visitar mi portafolio para ver algunos de los proyectos que he realizado:
+ https://marinsolita.netlify.app/
 
 - [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
 
