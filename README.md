@@ -22,8 +22,7 @@ Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 [![FastAPI](https://img.shields.io/badge/FastAPI-brightgreen)]()
 [![SQLite](https://img.shields.io/badge/SQLite-fuchsia)]()
 [![Postgres](https://img.shields.io/badge/Postgres-blue)]()
-[![HTML](https://img.shields.io/badge/HTML-orange)]()
-[![CSS](https://img.shields.io/badge/CSS-red)]()
+[![Postman](https://img.shields.io/badge/Postman-orange)]()
 [![GIT](https://img.shields.io/badge/GIT-black)]()
 
 📞 Podés contactarme:
