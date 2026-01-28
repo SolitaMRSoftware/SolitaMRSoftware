@@ -3,7 +3,7 @@
 En este camino de la tecnología comencé aprendiendo a desarrollar aplicaciones de escritorio en Python y SQLite, lo que ha sido base de mi aprendizaje.
 <br>
 
-Me recibí en 2021 de Técnico en Desarrollo de Software y desde entonces no he dejado de aprender para poder sumar conocimiento y práctica.
+Me recibí en 2021 como Técnico en Desarrollo de Software y desde entonces no he dejado de aprender para poder sumar conocimiento y práctica.
 <br>
 
 He adquirido habilidades en lenguaje Python, SQL, FastApi y Git, herramientas con las que he trabajado en proyectos de estudio, para amigos y pequeños emprendimientos, y las que sigo reforzando día a día <br>
