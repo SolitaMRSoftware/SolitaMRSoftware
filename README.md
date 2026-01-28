@@ -1,6 +1,6 @@
-### Hola, mi nombre es Solita, soy desarrolladora de software. ¡Bienvenid@s! 👋
+### Hola, mi nombre es Solita, soy desarrolladora de software ¡Bienvenid@s! 👋
 
-*** En este camino de la tecnología comencé aprendiendo a desarrollar aplicaciones de escritorio en Python y SQLite, lo que ha sido base de mi aprendizaje..*** 
+En este camino de la tecnología comencé aprendiendo a desarrollar aplicaciones de escritorio en Python y SQLite, lo que ha sido base de mi aprendizaje.
 <br>
 
 Me recibí en 2021 de Técnico en Desarrollo de Software y desde entonces no he dejado de aprender para poder sumar conocimiento y práctica.
