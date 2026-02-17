@@ -23,8 +23,8 @@ Cualquier sugerencia constructiva que me ayude a crecer, es bienvenida 🙂 <br>
 ![Postman](https://img.shields.io/badge/Postman-orange)
 
 📞 Contactáme:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soledad%20Marin-fuchsia)](https://www.linkedin.com/in/soledadmarin-dev/)
-[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electronico-msoledadmarich%40gmail.com-blue)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soledad%20Marin-blue)](https://www.linkedin.com/in/soledadmarin-dev/)
+[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electronico-msoledadmarich%40gmail.com-fuchsia)]()
 
 
 
