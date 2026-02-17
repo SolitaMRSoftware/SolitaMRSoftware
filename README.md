@@ -18,7 +18,7 @@ Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje,
 
  Cualquier sugerencia constructiva que me ayude a crecer, es bienvenida 🙂
 
-- [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
+💻 [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
 
 ✅ Tecnologías:
 ![Python](https://img.shields.io/badge/Python-yellow)
@@ -27,7 +27,7 @@ Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje,
 ![GIT](https://img.shields.io/badge/GIT-black)
 ![Postman](https://img.shields.io/badge/Postman-orange)
 
-📞 Podés contactarme:
+📞 Contactáme:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soledad%20Marin-fuchsia)](https://www.linkedin.com/in/soledadmarin-dev/)
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electronico-msoledadmarich%40gmail.com-blue)]()
 
