@@ -13,7 +13,7 @@ Actualmente continúo formándome, fortaleciendo Python, SQL y FastAPI. <br>
 👇Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje, las tecnologías aprendidas y mi info de contacto.
 Cualquier sugerencia constructiva que me ayude a crecer, es bienvenida 🙂 <br>
 
-💻 Visitar portafolio: [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
+💻 Visitar portafolio: [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-skyblue)](https://marinsolita.netlify.app/)
 
 ✅ Tecnologías:
 ![Python](https://img.shields.io/badge/Python-yellow)
