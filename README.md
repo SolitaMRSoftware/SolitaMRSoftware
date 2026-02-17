@@ -6,7 +6,9 @@ En este camino de la tecnología comencé aprendiendo a desarrollar aplicaciones
 Me recibí en 2021 como Técnico en Desarrollo de Software y desde entonces no he dejado de aprender para poder sumar conocimiento y práctica.
 <br>
 
-He adquirido habilidades en lenguaje Python, SQL, FastApi y Git, herramientas con las que he trabajado en proyectos de estudio, para amigos y pequeños emprendimientos, y las que sigo reforzando día a día <br>
+Desarrollo proyectos de estudio y ejercicios integradores que simulan escenarios reales, con foco en buenas prácticas y aprendizaje continuo. <br>
+
+Actualmente continúo formándome, fortaleciendo Python, SQL y FastAPI. <br>
 
 👇 Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje, las tecnologías aprendidas y mi info de contacto.
 <br>
