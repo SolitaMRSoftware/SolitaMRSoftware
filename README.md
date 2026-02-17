@@ -10,15 +10,13 @@ Desarrollo proyectos de estudio y ejercicios integradores que simulan escenarios
 
 Actualmente continúo formándome, fortaleciendo Python, SQL y FastAPI. <br>
 
-👇 Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje, las tecnologías aprendidas y mi info de contacto.
+Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje, las tecnologías aprendidas y mi info de contacto.
 <br>
 
-Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
-
- 👩‍💻 Algunos de mis proyectos
- 
- En el siguiente enlace podés visitar mi portafolio para ver algunos de los proyectos que he realizado como parte de mi aprendizaje:
+👇En el siguiente enlace podés visitar mi portafolio:
  https://marinsolita.netlify.app/
+
+ Cualquier sugerencia constructiva que me ayude a crecer, es bienvenida 🙂
 
 - [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
 
