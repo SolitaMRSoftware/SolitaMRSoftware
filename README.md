@@ -21,13 +21,11 @@ Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 - [![Mi Portafolio](https://img.shields.io/badge/Portafolio-marinsolita-8A2BE2)](https://marinsolita.netlify.app/)
 
 ✅ Tecnologías:
-[![Python](https://img.shields.io/badge/Python-yellow)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-brightgreen)]()
-[![SQL](https://img.shields.io/badge/SQL-blue)]()
-![Static Badge](https://img.shields.io/badge/SQL-blue)
-
-[![Postman](https://img.shields.io/badge/Postman-orange)]()
-[![GIT](https://img.shields.io/badge/GIT-black)]()
+![Python](https://img.shields.io/badge/Python-yellow)
+![SQL](https://img.shields.io/badge/SQL-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-brightgreen)
+![GIT](https://img.shields.io/badge/GIT-black)
+![Postman](https://img.shields.io/badge/Postman-orange)
 
 📞 Podés contactarme:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soledad%20Marin-fuchsia)](https://www.linkedin.com/in/soledadmarin-dev/)
