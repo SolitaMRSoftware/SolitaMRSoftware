@@ -23,7 +23,8 @@ Cualquier sugerencia constructiva que me ayude a crecer es bienvenida 🙂
 ✅ Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-brightgreen)]()
-[![SQLite](https://img.shields.io/badge/SQLite-fuchsia)]()
+[![SQL](https://img.shields.io/badge/SQL-skyblue)
+]()
 [![Postgres](https://img.shields.io/badge/Postgres-blue)]()
 [![Postman](https://img.shields.io/badge/Postman-orange)]()
 [![GIT](https://img.shields.io/badge/GIT-black)]()
