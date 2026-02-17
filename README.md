@@ -13,7 +13,7 @@ Actualmente continúo formándome, fortaleciendo Python, SQL y FastAPI. <br>
 Te invito a ver algunos de mis trabajos realizados como parte de mi aprendizaje, las tecnologías aprendidas y mi info de contacto.
 <br>
 
-👇En el siguiente enlace podés visitar mi portafolio:
+👇En el siguiente enlace podés visitar mi portafolio: <br>
  https://marinsolita.netlify.app/
 
  Cualquier sugerencia constructiva que me ayude a crecer, es bienvenida 🙂
